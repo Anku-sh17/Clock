@@ -1,0 +1,122 @@
+html {
+  font-size: 80.5%;
+  box-sizing: border-box;
+}
+body {
+  background-image: linear-gradient(to right, #833ab4, #fd1d1d, #fcb045);
+}
+.main1 {
+  margin-top: 1cm;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-size: 50px;
+  background-color: black; 
+
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+
+  background: none;
+  border: orchid;
+  font-family: inherit;
+  font-size: 2rem;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-weight: 700;
+  transition: all 0.2s;
+
+  backdrop-filter: blur(10px);
+
+  padding: 0.7rem 2.5rem;
+  border-radius: 50rem;
+  box-shadow: 0 1.75rem 3.5rem rgba(0, 0, 0, 0.1);
+}
+.main2 {
+  margin-top: 4cm;
+  text-align: center;
+  color: rgb(0, 0, 0);
+  font-size: 100px;
+  display: -ms-inline-grid;
+  background-color: black;
+
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+
+  background: none;
+  border: none;
+  font-family: inherit;
+  font-size: 2rem;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-weight: 1000;
+  transition: all 0.2s;
+
+  backdrop-filter: blur(10px);
+
+  padding: 0.7rem 2.5rem;
+  border-radius: 50rem;
+  box-shadow: 0 1.75rem 3.5rem rgba(0, 0, 0, 0.1);
+}
+.span {
+  display: inline-block;
+}
+.main3 {
+  margin-top: 11cm;
+  text-align: center;
+  color: white;
+  font-size: 40px;
+
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+
+  color: rgb(184, 19, 19);
+  background: none;
+  border: none;
+  font-family: inherit;
+  font-size: 1.8rem;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-weight: 400;
+  transition: all 0.2s;
+
+  background-color: rgb(255, 255, 255);
+  background-color: rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(10px);
+
+  padding: 0.7rem 2.5rem;
+  border-radius: 50rem;
+  box-shadow: 0 1.75rem 3.5rem rgba(0, 0, 0, 0.1);
+}
+.main4 {
+  margin-top: 14cm;
+  text-align: center;
+  color: white;
+  font-size: 40px;
+
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+
+  color: rgb(184, 19, 19);
+  background: none;
+  border: none;
+  font-family: inherit;
+  font-size: 1.8rem;
+  text-transform: uppercase;
+  cursor: pointer;
+  font-weight: 400;
+  transition: all 0.2s;
+
+  background-color: rgb(255, 255, 255);
+  background-color: rgba(255, 255, 255, 0.6);
+  backdrop-filter: blur(10px);
+
+  padding: 0.7rem 2.5rem;
+  border-radius: 50rem;
+  box-shadow: 0 1.75rem 3.5rem rgba(0, 0, 0, 0.1);
+}
+.color1 {
+  background-image: linear-gradient(to right, #fd1d1d, #fcb045, #833ab4);
+}
